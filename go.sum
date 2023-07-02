@@ -2,3 +2,5 @@ github.com/aliefabdillah/go-hello-modules v1.0.0 h1:daIke2MzUGTMHILr3JE2ozthMeIF
 github.com/aliefabdillah/go-hello-modules v1.0.0/go.mod h1:3INtGm0wh7nU/0xJqufm3Ud6DYNqmK3q4CyJP9zcIDo=
 github.com/aliefabdillah/go-hello-modules v1.0.1 h1:UmdiN1kVmYPVl0UvEW0krDTDidcm/luaNvQzD2Mqmyk=
 github.com/aliefabdillah/go-hello-modules v1.0.1/go.mod h1:3INtGm0wh7nU/0xJqufm3Ud6DYNqmK3q4CyJP9zcIDo=
+github.com/aliefabdillah/go-hello-modules/v2 v2.0.0 h1:75OgCKUF+mlNg/bBapB2QPvY/Lhp4Akq59rFeBs8wtI=
+github.com/aliefabdillah/go-hello-modules/v2 v2.0.0/go.mod h1:hj0I5PaFmdQ+OSo4okQmoo1Y+pbh3//TNFRWCJS1TTA=
